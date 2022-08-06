@@ -1,5 +1,5 @@
 # POSTGRESQL PORTFOLIO
-In this code, I was using the SELECT DISTINT keyword to return only the distinct values in the column i wanted.
+In this code, I was using the SELECT DISTINCT keyword to return only the distinct values in the column i wanted.
 In the second part of the code i was using the COUNT to return back a  count of the number of rows in that specific table.
 Also the second part of the code,all the query below resulted in the same answer.
 In the 3rd part of the code, I wanted to find a phone number of a customer from their address.
